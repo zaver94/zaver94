@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaver94
+- 👋 Hi, I’m @dokercorp
 - 👀 I’m create any telegram bots.
 - 🌱 I’m currently learning Node.JS...
-- 📫 How to reach me - Telegram -@coderman77
+- 📫 How to reach me - Telegram -@dokercorp
